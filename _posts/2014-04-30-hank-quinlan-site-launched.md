@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dave, Sam Krish, Founders BlackBox"
+title: "Dave, Sam, Krish Founders BlackBox"
 date: 2015-07-01
 ---
 
